@@ -7,13 +7,13 @@
 ## Исполнители
 
 - **Андрей**
-  - Контакт в Telegram: [@Andre_Telegram](https://t.me/onelovesport)
+  - Контакт в Telegram: [@Андрей](https://t.me/onelovesport)
   
 - **Наталья**
-  - Контакт в Telegram: [@Natalia_Telegram](https://t.me/nataliaiakusheva27)
+  - Контакт в Telegram: [@Наталья](https://t.me/nataliaiakusheva27)
   
 - **Леонид**
-  - Контакт в Telegram: [@Leonid_Telegram](https://t.me/leonidusepyan)
+  - Контакт в Telegram: [@Леонид](https://t.me/leonidusepyan)
 
 ## Структура проекта
 
@@ -35,8 +35,9 @@
 - seaborn
 - scikit-learn
 - holidays
-- TS Fresh
+- tsfresh
 - statsmodels
+- phik
 
 Вы можете установить их с помощью pip или conda в зависимости от вашего програмного обеспечения.
 
